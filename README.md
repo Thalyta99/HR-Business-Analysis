@@ -59,12 +59,14 @@ Steps included:
 - Day shift is dominant; evening shift has gender balance  
 - Most employees have 5–9 years tenure  
 
-## 📁 Preview or Download the Dashboard
+## 📁 Preview or Download the Dashboards
 
 You can view the full Power BI report:
 
 > 🔗 [View Power BI Report (.pbix)](https://github.com/Thalyta99/HR-Business-Analysis/blob/main/HR-Business-Analysis.pbit)  
 > To view this file, download and open it using [Power BI Desktop](https://powerbi.microsoft.com/desktop/).
+
+You can also view a full explanation of the project in [PDF](https://github.com/Thalyta99/HR-Business-Analysis/blob/main/HR-Analytics-Explanation.pdf)
 
 ## 🛠 Technologies Used
 
